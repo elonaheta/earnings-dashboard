@@ -39,4 +39,4 @@ streamlit run app.py
 - Plotly
 - Openpyxl
 
-##SCHOOL PROJECT applied to a real world problem faced in a public transport comapny
+# School project applied to a real world problem faced in a public transport comapny
